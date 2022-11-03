@@ -10,6 +10,5 @@ export function Main() {
             <Filter />
             <Products />
         </Flex>
-
     );
 }
